@@ -15,7 +15,7 @@ namespace CRUD
 
         SqlConnection con = new SqlConnection();
 
-        String DB = @"Data Source=DEV-GUILHERME\SQLEXPRESS01;Initial Catalog=test;Integrated Security=True"; //Caso Possua Password alterar os asteriscos para sua senha
+        String DB = //Url de Conexão com banco de dados
 
         //Contrutor
 
